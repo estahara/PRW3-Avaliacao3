@@ -8,7 +8,6 @@ Estrutura baseada no projeto `prw3_2026_1_api` visto em aula.
 ./mvnw spring-boot:run
 ```
 Console do H2: http://localhost:8080/h2-console (URL JDBC: `jdbc:h2:file:./DATA/oficina`, usuário `sa`, senha vazia).
-Exemplos de requisições: `requests.http`.
 
 ## Endpoints
 | Parte | Método | URL | Descrição | Resposta |
