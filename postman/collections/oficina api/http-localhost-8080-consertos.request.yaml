@@ -1,0 +1,9 @@
+$kind: http-request
+name: http://localhost:8080/consertos
+description: ""
+url: http://localhost:8080/consertos
+method: POST
+body:
+  type: json
+  content: '{ "dataEntrada": "2026-10-05", "mecanico": { "nome": "" }, "veiculo": { "modelo": "Palio", "ano": "12" } }'
+order: 1791401936418
